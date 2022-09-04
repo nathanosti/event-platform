@@ -1,7 +1,9 @@
 export default function Player() {
   return (
     <>
-      <h1>Player</h1>
+      <div className="flex-1">
+        <h1>Player</h1>
+      </div>
     </>
   );
 }
